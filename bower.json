@@ -1,0 +1,21 @@
+{
+  "name": "cityheroes.github.io",
+  "version": "0.0.0",
+  "homepage": "http://cityheroes.github.io/",
+  "authors": [
+    "Mauro Trigo <mauro.trigo@gmail.com>"
+  ],
+  "description": "CityHeroes Github Page",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4"
+  }
+}
